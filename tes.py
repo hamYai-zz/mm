@@ -1,5 +1,4 @@
 
-@@ -1,93 +1 @@
 from builtins import *
 from math import prod as DetectVar
 
